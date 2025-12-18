@@ -29,7 +29,7 @@ IP: $IP"
 curl -s -m 5 -d "$MESSAGE" \
      -H "Title: $TITLE" \
      -H "Priority: high" \
-     https://ntfy.sh/kali-login >/dev/null 2>&1 || true
+     https://ntfy.sh/kali_login_alert >/dev/null 2>&1 || true
 # ------------------------------------------------------
 
 exit 0
