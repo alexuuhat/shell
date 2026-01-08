@@ -2,8 +2,8 @@ import requests
 import socket
 import datetime
 
-BOT_TOKEN = "8158971349:AAG7XmiejAwekjWXkrcqI1LHbcFDeq7K8m0"
-CHAT_ID = "1826429464"
+BOT_TOKEN = "<TOKEN>"
+CHAT_ID = "<CHAT ID HERE>"
 
 hostname = socket.gethostname()
 time_now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
