@@ -67,7 +67,7 @@ echo '
         <p>This is the original page, safe and sound.</p>
         <p>Explore more about PHP and Web Development here.</p>
         <p><a href="https://www.php.net" target="_blank">Visit PHP Official Site</a></p>
-        <p>This page is created by @0xxSecurity for DRFACE Attack Test.</p>
+        <p>This page is created by @Alexuuhat for DRFACE Attack Test.</p>
     </div>
     <footer>
         &copy; ' . date("Y") . ' My Blog. All rights reserved.
@@ -75,4 +75,5 @@ echo '
 </body>
 </html>
 ';
+
 ?>
